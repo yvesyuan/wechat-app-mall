@@ -10,7 +10,6 @@
     </view>
     <view style='display:flex;padding-bottom:20rpx;'>
       <button type='primary' style='width:100%;margin-right:70rpx;' bindtap="recharge">充值</button>
-      <button type='warn' style='width:100%;margin-right:70rpx;' bindtap="withdraw">提现</button>
     </view>
   </view>
   <view class="my-item" style='background:none;display:flex;'>

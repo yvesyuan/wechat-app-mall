@@ -106,7 +106,7 @@ swiper-item image {
    color:#e64340;
    font-size: 28rpx;
    font-weight: bold;
-   width: 30%;
+   width: 25%;
    float:left;
 }
 .row-arrow{

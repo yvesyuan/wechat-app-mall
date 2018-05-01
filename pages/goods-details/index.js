@@ -103,7 +103,7 @@ Page({
       shopType: "tobuy"
     });
     this.bindGuiGeTap();
-    /*    if (this.data.goodsDetail.properties && !this.data.canSubmit) {
+        if (this.data.goodsDetail.properties && !this.data.canSubmit) {
           this.bindGuiGeTap();
           return;
         }
@@ -116,7 +116,7 @@ Page({
           return;
         }
         this.addShopCar();
-        this.goShopCar();*/
+        this.goShopCar();
   },  
   /**
    * 规格选择弹出框
